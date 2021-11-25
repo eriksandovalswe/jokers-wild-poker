@@ -1,10 +1,4 @@
-/*
-POKER PROJECT
-TAVIN, ERIK, JOE
-COSC 1174
-NOVEMBER 23, 2021
-FALL SEMESTER
- */
+
 
 package PokerProject;
 

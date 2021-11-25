@@ -1,21 +1,6 @@
-/*
-POKER PROJECT
-TAVIN, ERIK, JOE
-COSC 1174
-NOVEMBER 23, 2021
-FALL SEMESTER
-
-This program expands on the Poker assignments to a full game of poker. This edition will include the jokers,
-which can count as any card in the deck. There are also tiered payouts, so better hands pay more. We have also
-implemented features 3, 5, 8, 9. The program utilizes the classes CheckHand.java, card.java, Main.java.
-Documentation has been provided throughout the program. This program is using Java 17 and JavaFX 18 ea.
-
- */
 
 package PokerProject;
 
-//test
-//test2
 
 
 import javafx.animation.PathTransition;
